@@ -43,7 +43,6 @@ After working several years in one of Myanmar’s largest telecom operators, I d
 
 ### 📊 GitHub Stats
 
-
 ![](https://nirzak-streak-stats.vercel.app/?user=SENSEI2684&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=SENSEI2684&show_icons=true&count_private=true&theme=tokyonight)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SENSEI2684&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -57,9 +56,9 @@ After working several years in one of Myanmar’s largest telecom operators, I d
 ### 📌 Top Repositories
 
 <a href="https://github.com/SENSEI2684/mini_pos_system">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SENSEI2684&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top 5 Contributors" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SENSEI2684&repo=mini_pos_system&theme=tokyonight" />
+  
 </a>
-
 
 ---
 
