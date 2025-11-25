@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I am a transmission/network engineer transitioning into a full-time software development career. After several years working in one of Myanmar’s largest telecommunications service providers, I realized that my true passion lies in designing systems, building applications, and solving problems through code.
+I am a core transmission/network engineer transitioning into a full-time software development career. After several years working in one of Myanmar’s largest telecommunications service providers, I realized that my true passion lies in designing systems, building applications, and solving problems through code.
 
 * 🌍  I'm based in Myanmar, Yangon City
 * ✉️  You can contact me at [akkyaw.dev@gmail.com](mailto:akkyaw.dev@gmail.com)
