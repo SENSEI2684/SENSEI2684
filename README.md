@@ -1,33 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aung Khant Kyaw
-========================================================================================================================================
+<h2 align="center">Hi 👋, I'm Aung Khant Kyaw</h2>
+<h3 align="center">Backend Developer</h3>
 
-Backend Developer
------------------
+---
 
-I am a core transmission/network engineer transitioning into a full-time software development career. After several years working in one of Myanmar’s largest telecommunications service providers, I realized that my true passion lies in designing systems, building applications, and solving problems through code.
+### 👨‍💻 About Me
+I am a core transmission/network engineer transitioning into a full-time software development career.  
+After working several years in one of Myanmar’s largest telecom operators, I discovered that my true passion is **building systems, developing applications, and solving problems through code**.
 
-* 🌍  I'm based in Myanmar, Yangon City
-* ✉️  You can contact me at [akkyaw.dev@gmail.com](mailto:akkyaw.dev@gmail.com)
-* 🧠  I'm currently learning Spring Framework
-* 👥  I'm looking to collaborate on Projects
+- 🌍 Based in **Yangon, Myanmar**
+- ✉️ Contact me: **akkyaw.dev@gmail.com**
+- 🧠 Currently learning **Spring Framework**
+- 👥 Open to collaborate on **backend + full-stack projects**
+- 💡 Interested in: Java • Spring Boot • System Design • Databases • Linux
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+---
+
+### 🚀 Tech Stack
+
+#### **Languages & Frameworks**
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="40" title="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" title="Linux"/>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/SENSEI2684" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+### 🌐 Socials
+<p>
+  <a href="https://github.com/SENSEI2684" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/SENSEI2684"><img src="https://github-readme-stats.vercel.app/api?username=SENSEI2684&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SENSEI2684's GitHub stats" /></a>
+### 📊 GitHub Stats
 
-<a href="http://www.github.com/SENSEI2684"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SENSEI2684&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SENSEI2684&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
 
-<a href="https://github.com/SENSEI2684" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENSEI2684&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENSEI2684&theme=tokyonight" />
+</p>
 
-<b>Top Repositories</b>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENSEI2684&layout=compact&theme=tokyonight" />
+</p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### 📌 Top Repositories
+
+<p>
+  <a href="https://github.com/SENSEI2684/mini_pos_system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SENSEI2684&repo=mini_pos_system&theme=tokyonight" />
+</a>
+</p>
+
+---
+
+### 💬 Thanks for Visiting My Profile!
+⭐ If you like my projects, consider giving them a **star** to support my work!
